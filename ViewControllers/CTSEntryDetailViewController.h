@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  CTSEntryDetailViewController.h
 //  JournalObjectiveC
 //
 //  Created by Colin Smith on 3/25/19.
@@ -8,8 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+NS_ASSUME_NONNULL_BEGIN
 
+@interface CTSEntryDetailViewController : UIViewController
 
 @end
 
+NS_ASSUME_NONNULL_END
